@@ -1,17 +1,13 @@
-Frontend Challenge for Developer Candidates
-===========================================
+# Frontend Challenge for Developer Candidates
 
 To better assess a candidates development skills, we would like to provide the following challenge. This is intendend to be developed in a pair programming session within an hour of time.
 
-Prerequisites
--------------
+## Prerequisites
 
 * [Git](http://git-scm.com/)
 * [npm](https://www.npmjs.org/)
-* [Bower](http://bower.io/)
 
-Installation
-------------
+## Installation
 
 Clone the project
 
@@ -35,8 +31,7 @@ Visit [http://localhost:8080](http://localhost:8080)
 
 **Please set up your working environment before the interview (working server, node, npm dependencies), so we don't spend time installing anything.**
 
-Project description
--------------------
+## Project description
 
 We want to develop a small web app that allows users to order pizza.
 
@@ -48,14 +43,11 @@ There will be a button to confirm the order. An ajax call will be performed to `
 
 You can use any library/framework/plugin you want.
 
-Please use some template library (http://handlebarsjs.com/, http://mustache.github.io/, ...).
-
 The application must be single page and JS-based using AngularJS (1.x is fine if not familiar with 2.x) or ReactJS. That means that I load just one html file, if you want to add some navigation you have to implement it via JS.
 
 If you can display discounts for pizzas it's a plus.
 
-Evaluation
-----------
+## Evaluation
 
 Our goal is to find answers to those questions:
 
@@ -68,4 +60,3 @@ Due to the limited time consider the followings:
 
 * It is NOT important to have a fully functional application at the end.
 * We'll develop just for the latest version of Google Chrome.
-

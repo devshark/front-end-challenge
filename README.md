@@ -60,3 +60,4 @@ Due to the limited time consider the followings:
 
 * It is NOT important to have a fully functional application at the end.
 * We'll develop just for the latest version of Google Chrome.
+* 
